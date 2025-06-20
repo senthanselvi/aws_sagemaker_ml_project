@@ -1,6 +1,4 @@
-# aws_sagemaker_ml_project
-
-**End-to-End Machine Learning with AWS SageMaker**
+# End-to-End Machine Learning with AWS SageMaker
 
 **Project Overview**
 This project demonstrates how to build and deploy a complete machine learning pipeline using Amazon SageMaker. It covers all stages of the ML lifecycle — including data preprocessing, model training with SageMaker’s built-in algorithms, deployment to a real-time endpoint, and making predictions — all within a single, cohesive workflow.
