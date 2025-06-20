@@ -54,5 +54,21 @@ Predict student exam scores based on study hours using a simple linear regressio
 **7. Delete Endpoint**
 - predictor.delete_endpoint()
 
+
+![image](https://github.com/user-attachments/assets/d3bd0484-fd8e-4e9f-ac88-b8450ae0329e)
+
+![image](https://github.com/user-attachments/assets/60c3a7f4-c23f-4b73-ad7a-83de92537548)
+
+![image](https://github.com/user-attachments/assets/862b73dd-5e73-406a-9e9b-b0aafb74febb)
+
+![image](https://github.com/user-attachments/assets/b6f811d6-d4e3-42f8-b3ff-090aed726f1d)
+
+![image](https://github.com/user-attachments/assets/aa3e6e71-06f4-4992-bda1-834c84554167)
+
+
+
+
+
+
  
 
